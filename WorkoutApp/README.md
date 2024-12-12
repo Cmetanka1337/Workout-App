@@ -10,7 +10,7 @@ The project showcases a comprehensive approach to creating a modern interface wi
 > You can clone this repository to test it by using the corresponding
 > button or by running the following command in the console
 
-    git clone https://github.com/Cmetanka1337/GitHub-Followers.git
+    git clone https://github.com/Cmetanka1337/Workout-App.git
 
 #
 
