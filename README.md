@@ -1,4 +1,4 @@
-a﻿## **Workout App Layout**
+## **Workout App Layout**
 
 This project implements a user interface based on a provided design. The interface includes an interactive calendar for tracking dates, charts, and histograms for visualizing workout data.
 
